@@ -17,12 +17,12 @@ class AboutPage extends StatelessWidget {
       body: ListView(
         children: [
           ListTile(
-            title: Text('Made with ❤ by : Mohamed anwar'),
+            title: Text('Made with ❤ by : Karita'),
           ),
   
           ListTile(
             leading: Icon(Icons.email),
-            title: SelectableText('mohamedanwer006@gmail.com '),
+            title: SelectableText('Karita@gmail.com '),
           ),
         ],
       ),
